@@ -1,0 +1,124 @@
+<svg viewBox="0 0 620 380" xmlns="http://www.w3.org/2000/svg" font-family="'Helvetica Neue', Arial, 'Hiragino Sans', 'Meiryo', sans-serif">
+  <title>年度別 販売台数推移（主要型式）</title>
+  <desc>ASC32U・TWPF30N・WTSL15・BUD60UJ/ULJ・BWRの2019〜2026年度の販売台数推移</desc>
+
+  <rect width="620" height="380" fill="#ffffff"/>
+  <text x="310" y="28" text-anchor="middle" font-size="15" font-weight="bold" fill="#222">③ 年度別 販売台数推移（主要型式）</text>
+  <text x="310" y="46" text-anchor="middle" font-size="11" fill="#888">単位：台　※2026年度は上半期速報値</text>
+
+  <!-- 凡例 -->
+  <line x1="30" y1="63" x2="50" y2="63" stroke="#1D9E75" stroke-width="2"/>
+  <circle cx="40" cy="63" r="3" fill="#1D9E75"/>
+  <text x="54" y="67" font-size="10" fill="#555">ASC32U</text>
+
+  <line x1="115" y1="63" x2="135" y2="63" stroke="#534AB7" stroke-width="2"/>
+  <circle cx="125" cy="63" r="3" fill="#534AB7"/>
+  <text x="139" y="67" font-size="10" fill="#555">TWPF30N</text>
+
+  <line x1="210" y1="63" x2="230" y2="63" stroke="#378ADD" stroke-width="2" stroke-dasharray="5,3"/>
+  <circle cx="220" cy="63" r="3" fill="#378ADD"/>
+  <text x="234" y="67" font-size="10" fill="#555">WTSL15</text>
+
+  <line x1="290" y1="63" x2="310" y2="63" stroke="#D85A30" stroke-width="2" stroke-dasharray="2,2"/>
+  <circle cx="300" cy="63" r="3" fill="#D85A30"/>
+  <text x="314" y="67" font-size="10" fill="#555">BUD60UJ/ULJ</text>
+
+  <line x1="410" y1="63" x2="430" y2="63" stroke="#888780" stroke-width="2" stroke-dasharray="8,4"/>
+  <circle cx="420" cy="63" r="3" fill="#888780"/>
+  <text x="434" y="67" font-size="10" fill="#555">BWR</text>
+
+  <!-- グラフエリア: x=80〜590, y=80〜320, max=80台 -->
+  <!-- x軸: 8点 → 間隔 510/7=72.86px -->
+  <!-- y軸: 0,20,40,60,80 → 240px/80=3px per台 -->
+
+  <!-- グリッド横線 -->
+  <line x1="80" y1="320" x2="590" y2="320" stroke="#ddd" stroke-width="1"/>
+  <line x1="80" y1="260" x2="590" y2="260" stroke="#eee" stroke-width="1" stroke-dasharray="3,3"/>
+  <line x1="80" y1="200" x2="590" y2="200" stroke="#eee" stroke-width="1" stroke-dasharray="3,3"/>
+  <line x1="80" y1="140" x2="590" y2="140" stroke="#eee" stroke-width="1" stroke-dasharray="3,3"/>
+  <line x1="80" y1="80"  x2="590" y2="80"  stroke="#eee" stroke-width="1" stroke-dasharray="3,3"/>
+
+  <!-- y軸ラベル -->
+  <text x="72" y="324" text-anchor="end" font-size="10" fill="#999">0</text>
+  <text x="72" y="264" text-anchor="end" font-size="10" fill="#999">20</text>
+  <text x="72" y="204" text-anchor="end" font-size="10" fill="#999">40</text>
+  <text x="72" y="144" text-anchor="end" font-size="10" fill="#999">60</text>
+  <text x="72" y="84"  text-anchor="end" font-size="10" fill="#999">80</text>
+  <text x="30" y="200" text-anchor="middle" font-size="10" fill="#999" transform="rotate(-90,30,200)">台数</text>
+
+  <!-- x軸ラベル: 年度 -->
+  <!-- x座標: 80, 152.9, 225.7, 298.6, 371.4, 444.3, 517.1, 590 -->
+  <text x="80"   y="338" text-anchor="middle" font-size="10" fill="#555">19年度</text>
+  <text x="153"  y="338" text-anchor="middle" font-size="10" fill="#555">20年度</text>
+  <text x="226"  y="338" text-anchor="middle" font-size="10" fill="#555">21年度</text>
+  <text x="299"  y="338" text-anchor="middle" font-size="10" fill="#555">22年度</text>
+  <text x="371"  y="338" text-anchor="middle" font-size="10" fill="#555">23年度</text>
+  <text x="444"  y="338" text-anchor="middle" font-size="10" fill="#555">24年度</text>
+  <text x="517"  y="338" text-anchor="middle" font-size="10" fill="#555">25年度</text>
+  <text x="590"  y="338" text-anchor="middle" font-size="10" fill="#555">26年度</text>
+
+  <!-- y値→座標変換: ypos = 320 - val*3 -->
+  <!-- ASC32U: 5,19,32,36,32,29,28,11 -->
+  <polyline points="80,305 153,263 226,224 299,212 371,224 444,233 517,236 590,287"
+    fill="none" stroke="#1D9E75" stroke-width="2.5"/>
+  <circle cx="80"  cy="305" r="3.5" fill="#1D9E75"/>
+  <circle cx="153" cy="263" r="3.5" fill="#1D9E75"/>
+  <circle cx="226" cy="224" r="3.5" fill="#1D9E75"/>
+  <circle cx="299" cy="212" r="3.5" fill="#1D9E75"/>
+  <circle cx="371" cy="224" r="3.5" fill="#1D9E75"/>
+  <circle cx="444" cy="233" r="3.5" fill="#1D9E75"/>
+  <circle cx="517" cy="236" r="3.5" fill="#1D9E75"/>
+  <circle cx="590" cy="287" r="3.5" fill="#1D9E75"/>
+
+  <!-- TWPF30N: 2,29,40,48,55,55,71,8 -->
+  <polyline points="80,314 153,233 226,200 299,176 371,155 444,155 517,107 590,296"
+    fill="none" stroke="#534AB7" stroke-width="2.5"/>
+  <circle cx="80"  cy="314" r="3.5" fill="#534AB7"/>
+  <circle cx="153" cy="233" r="3.5" fill="#534AB7"/>
+  <circle cx="226" cy="200" r="3.5" fill="#534AB7"/>
+  <circle cx="299" cy="176" r="3.5" fill="#534AB7"/>
+  <circle cx="371" cy="155" r="3.5" fill="#534AB7"/>
+  <circle cx="444" cy="155" r="3.5" fill="#534AB7"/>
+  <circle cx="517" cy="107" r="3.5" fill="#534AB7"/>
+  <circle cx="590" cy="296" r="3.5" fill="#534AB7"/>
+
+  <!-- WTSL15: 22,17,19,14,16,6,15,1 -->
+  <polyline points="80,254 153,269 226,263 299,278 371,272 444,302 517,275 590,317"
+    fill="none" stroke="#378ADD" stroke-width="2" stroke-dasharray="5,3"/>
+  <circle cx="80"  cy="254" r="3" fill="#378ADD"/>
+  <circle cx="153" cy="269" r="3" fill="#378ADD"/>
+  <circle cx="226" cy="263" r="3" fill="#378ADD"/>
+  <circle cx="299" cy="278" r="3" fill="#378ADD"/>
+  <circle cx="371" cy="272" r="3" fill="#378ADD"/>
+  <circle cx="444" cy="302" r="3" fill="#378ADD"/>
+  <circle cx="517" cy="275" r="3" fill="#378ADD"/>
+  <circle cx="590" cy="317" r="3" fill="#378ADD"/>
+
+  <!-- BUD60UJ/ULJ: 0,0,1,7,15,10,5,2 -->
+  <polyline points="80,320 153,320 226,317 299,299 371,275 444,290 517,305 590,314"
+    fill="none" stroke="#D85A30" stroke-width="2" stroke-dasharray="2,2"/>
+  <circle cx="80"  cy="320" r="3" fill="#D85A30"/>
+  <circle cx="153" cy="320" r="3" fill="#D85A30"/>
+  <circle cx="226" cy="317" r="3" fill="#D85A30"/>
+  <circle cx="299" cy="299" r="3" fill="#D85A30"/>
+  <circle cx="371" cy="275" r="3" fill="#D85A30"/>
+  <circle cx="444" cy="290" r="3" fill="#D85A30"/>
+  <circle cx="517" cy="305" r="3" fill="#D85A30"/>
+  <circle cx="590" cy="314" r="3" fill="#D85A30"/>
+
+  <!-- BWR: 0,0,0,18,36,22,35,10 -->
+  <polyline points="80,320 153,320 226,320 299,266 371,212 444,254 517,215 590,290"
+    fill="none" stroke="#888780" stroke-width="2" stroke-dasharray="8,4"/>
+  <circle cx="80"  cy="320" r="3" fill="#888780"/>
+  <circle cx="153" cy="320" r="3" fill="#888780"/>
+  <circle cx="226" cy="320" r="3" fill="#888780"/>
+  <circle cx="299" cy="266" r="3" fill="#888780"/>
+  <circle cx="371" cy="212" r="3" fill="#888780"/>
+  <circle cx="444" cy="254" r="3" fill="#888780"/>
+  <circle cx="517" cy="215" r="3" fill="#888780"/>
+  <circle cx="590" cy="290" r="3" fill="#888780"/>
+
+  <!-- 2026年度注記 -->
+  <line x1="590" y1="80" x2="590" y2="320" stroke="#f0a" stroke-width="1" stroke-dasharray="2,2" opacity="0.3"/>
+  <text x="588" y="76" text-anchor="end" font-size="9" fill="#aaa">←速報</text>
+</svg>
