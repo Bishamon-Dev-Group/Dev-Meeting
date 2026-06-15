@@ -50,6 +50,8 @@
 * 🛠️ **所属**：技術部 開発グループ
 * 🧸 **マネージャー**：廣田（お困りごとはいつでも聞いてね！）
 
+NSA40-Develop（https://github.com/takemura234/NSA40-Develop）
+MUS40-Almt-Dep(https://github.com/Fuchida0324/MUS40-Almt-Dep)
 
 あらためて、前川TLに、レクチャーしてみた！！
 とにかく、素直に学ぶ姿勢が、大事！！！！！！
