@@ -44,3 +44,10 @@
 
 ---
 <p align="center">🎨 Designed with Love for Tech Team 🎨</p>
+
+
+
+あらためて、前川TLに、レクチャーしてみた！！
+とにかく、素直に学ぶ姿勢が、大事！！！！！！
+
+2026.06.15 Yamazaki
