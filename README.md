@@ -52,8 +52,8 @@
 
 NSA40-Develop(https://github.com/takemura234/NSA40-Develop)<br>
 MUS40-Almt-Dep(https://github.com/Fuchida0324/MUS40-Almt-Dep)<BR>
-物流展ミーティング7/1(MUS40-Almt-Dep(https://github.com/Fuchida0324/MUS40-Almt-Dep)
-)
+物流展ミーティング7/1(https://github.com/Bishamon-Dev-Group/Dev-Meeting/blob/main/doc/%E8%AD%B0%E4%BA%8B%E9%8C%B2/2026-05-25%20%E9%96%8B%E7%99%BA%E3%83%9F%E3%83%BC%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E8%AD%B0%E4%BA%8B%E9%8C%B2.md)
+
 
 
 あらためて、前川TLに、レクチャーしてみた！！
