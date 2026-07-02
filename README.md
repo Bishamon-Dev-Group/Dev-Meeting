@@ -51,7 +51,7 @@
 * 🧸 **マネージャー**：廣田（お困りごとはいつでも聞いてね！）
 
 NSA40-Develop(https://github.com/takemura234/NSA40-Develop)<br>
-MUS40-Almt-Dep(https://github.com/Fuchida0324/MUS40-Almt-Dep)
+MUS40-Almt-Dep(https://github.com/Fuchida0324/MUS40-Almt-Dep)<BR>
 物流展ミーティング7/1(MUS40-Almt-Dep(https://github.com/Fuchida0324/MUS40-Almt-Dep)
 )
 
