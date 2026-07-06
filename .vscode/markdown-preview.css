@@ -1,0 +1,10 @@
+body {
+  background-color: #ffffff !important;
+  color: #000000 !important;
+}
+
+/* Ensure code blocks and tables also have light backgrounds */
+pre, code {
+  background-color: #f6f8fa !important;
+  color: #000000 !important;
+}
